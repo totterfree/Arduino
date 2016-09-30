@@ -1,0 +1,7 @@
+{
+  "name": "Arduino",
+  "author": "Arduino",
+  "license": "Apache",
+  "version": "0.0.10",
+  "description": "Arduino port"
+}
